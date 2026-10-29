@@ -1,4 +1,4 @@
-package com.thiago.wallet_api;
+package com.thiago.walletapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
